@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(to right, #d47070, #e78469, #f39c62, #f8b75e, #f4d361);
+    /* color: white; */
+    font-family: 'Roboto', sans-serif;
+}
+
+.first {
+    color: red;
+}
+
+.second {
+    color: blue;
+}
+
+
+.first h1 {
+    color: yellow;
+}
+
+.shape {
+    width: 200px;
+    height: 200px;
+    background-color: seagreen;
+    color: whitesmoke;
+    border: 10px solid grey;
+    margin: 40px;
+    margin-top: 100px;
+    padding: 20px;
+    padding-left: 40px;
+    padding-top: 60px;
+}
+
+.shape:hover {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: pink;
+    color: black;   
+}
