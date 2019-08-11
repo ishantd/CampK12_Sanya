@@ -1,0 +1,16 @@
+Using Pre-Made Animation on Webpage
+
+https://daneden.github.io/animate.css/
+
+Flexbox
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Animations
+
+https://www.w3schools.com/css/css3_animations.asp
+
+CSS Selectors
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+
