@@ -1,0 +1,17 @@
+div {
+    margin-bottom: 50px;
+    
+}
+
+.one {
+    height: 100vh;
+    background-image: linear-gradient(to right, #70d4c2, #63ddbe, #5be5b6, #5aedab, #61f49d);
+}
+.two {
+    height: 90vh;
+    background-image: linear-gradient(to right, #9b3dda, #008dff, #00bcff, #00ddd9, #61f49d);
+}
+.three {
+    height: 90vh;
+    background-color: blue;
+}

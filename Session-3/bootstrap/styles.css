@@ -1,0 +1,10 @@
+nav {
+    color: black !important;
+}
+
+.pill {
+    width: 80px;
+    height: 25px;
+    border-radius: 15px;
+    background-color: yellow;
+}
