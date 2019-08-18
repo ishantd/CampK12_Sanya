@@ -1,0 +1,38 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.row {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 30px;
+
+}
+
+.content h6, h2 {
+    color: whitesmoke;
+}
+
+.underline {
+    width: 140px;
+    height: 2px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background : whitesmoke;
+}
+
+.footer {
+    background-color: black; 
+}
+
+.hrDiv {
+    width: 80vw;
+    height: 1px;
+    margin: 0 auto;
+    background-color: grey;
+}
+
+.oneLine {
+    display: inline-flex;
+}

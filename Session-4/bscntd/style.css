@@ -1,0 +1,42 @@
+html {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.space {
+    height: 100px;
+}
+
+.newPage {
+    background-color: whitesmoke;
+    height: 100vh;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    margin: 10px 25px;
+}
+
+.oneLine {
+    display: inline-flex;
+}
+
+
+.circle {
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    margin: 10px 25px;
+    border-radius: 50%;
+}
+
+
